@@ -12,5 +12,5 @@ web.xml有两个：tomcat自带的全局web.xml  和  当前项目下的局部we
 <servlet-mapping>
     <servlet-name>qqq</servlet-name>
     <url-pattern>/qqq</url-pattern><!--浏览器URL中要写的内容-->
-  </servlet-mapping>
+</servlet-mapping>
 ```
