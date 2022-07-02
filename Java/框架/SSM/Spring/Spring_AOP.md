@@ -84,6 +84,7 @@ Spring的底层两种动态代理技术都有。
 1. 在 目标类（内含连接点）和 切面类 上分别标注 **@Component**。
 2. 需要配置**组件扫描**才能使@Component注解生效：@ComponentScan
 
+
 ### 使用注解配置aop
 
 
